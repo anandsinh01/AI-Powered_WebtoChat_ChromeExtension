@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background circle -->
+    <circle cx="64" cy="64" r="60" fill="#007bff"/>
+    
+    <!-- Chat bubble shape -->
+    <path d="M30 40h68c5.5 0 10 4.5 10 10v38c0 5.5-4.5 10-10 10H64l-24 20V98H30c-5.5 0-10-4.5-10-10V50c0-5.5 4.5-10 10-10z" fill="white"/>
+    
+    <!-- AI symbol -->
+    <path d="M64 30l-10 20h20l-10-20zm-20 30l-10 20h20l-10-20zm40 0l-10 20h20l-10-20z" fill="#007bff"/>
+</svg> 
